@@ -22,4 +22,4 @@ The text documents in the corpus are categorized according to the content theme,
 
 ## Wikipedia Dictionary
 
-This project integrates the Vietnamese dictionary from Wikipedia. Users can find the definition and related information of words in the following ways
+This project integrates the Vietnamese dictionary from Wikipedia. 
